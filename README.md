@@ -1,2 +1,2 @@
 # image_library_obsidian
- 用于obsidian的笔记图片托管
+ 用于本地笔记中的部分图片托管
